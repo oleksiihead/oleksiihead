@@ -1,5 +1,5 @@
 # Oleksii Smiichuk
-## Middle DevOps Engineer
+## SRE/DevOps Engineer
 
 ### Summary of Qualifications
 
