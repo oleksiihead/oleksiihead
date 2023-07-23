@@ -3,7 +3,7 @@
 
 ### Summary of Qualifications
 
-Middle DevOps engineer with 1.5 years of experience working with AWS Cloud. 
+SRE/DevOps engineer with 1.5 years of experience working with AWS Cloud. 
 My passion is solving interesting and non-standard problems. 
 
 Withing my career I had designed interesting solutions to a non-standard problems.
@@ -40,6 +40,7 @@ Containerization
 
 DevOps
 - CloudBees/Jenkins
+- Github Actions
 
 RDBMS
 - MS SQL Server 2012/2016/MySQL
@@ -52,10 +53,11 @@ Operating Systems
 - Fedora, Centos 7
 - Ubuntu Server 18.04, 20.04
 - MacOS	Configuration Management
-- Ansible
+
 
 Infrastructure as Code
 - Terraform
+- Ansible
 
 Web Servers
 - Nginx
@@ -90,7 +92,7 @@ Customer:	US company
 
 Involvement Duration:	1 year
 
-Project Role:	Middle DevOps engineer
+Project Role: DevOps engineer
 
 Responsibilities:	- Containerization of testing frameworks FitNesse, Playwright.
 - Deploy, management and troubleshooting docker containers with Helm, K8s.
@@ -108,7 +110,7 @@ Customer:	Ukrainian company
 
 Involvement Duration:	2 months.
 
-Project Role:	Middle DevOps engineer
+Project Role: DevOps engineer
 
 Responsibilities:	
 - Create and setup infrastructure.
